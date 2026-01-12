@@ -1,0 +1,1 @@
+This repository explores enterprise AI architecture concepts including AI agents, observability, MCP, and multi-agent systems.
